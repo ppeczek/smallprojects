@@ -1,0 +1,1 @@
+Example unit testing. Exercise 48 from http://learnpythonthehardway.org/book/.
