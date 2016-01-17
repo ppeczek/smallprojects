@@ -1,5 +1,6 @@
 """
 Gets and prints list of upcoming Polish Constitutional Court cases
+
 """
 
 import requests
